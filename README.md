@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width="100"/>
+</div>
 <!--
 **VaNomad/VaNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
