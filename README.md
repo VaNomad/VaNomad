@@ -10,5 +10,11 @@
   </a>
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=dracula">
+</div>
+<div align="center">
+  *<h1>Skills</h1>*
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,html,css,js,figma,cra,vite,react,bootstrap,tailwind,nodejs,netlify,ps,postman,sass,supabase,vite,vscode,wordpress,xd,github/>
+  </a>
 </div>
