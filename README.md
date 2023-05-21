@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div align="center">
+  <h1>Sjur's GitHub Stats</h1>
+</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=dracula">
 </div>
