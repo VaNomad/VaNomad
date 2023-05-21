@@ -13,7 +13,7 @@
   <h1>Sjur's GitHub Stats</h1>
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
 </div>
 <div align="center">
   <h1>Skills</h1>
@@ -21,7 +21,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=4&theme=merko"/>
+      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=4"/>
     </a>
   </p>
 </div>
