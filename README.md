@@ -16,4 +16,4 @@
   <h1>Skills</h1>
   <img src="https://skillicons.dev/icons?i=bash,git,html,css,js,figma,cra,vite,react,bootstrap,tailwind,nodejs,netlify,ps,postman,sass,supabase,vite,vscode,wordpress,xd,github/>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light">
