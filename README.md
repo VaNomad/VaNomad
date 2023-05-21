@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="100"/>
 </div>
+<div>
+  ![sjurio_github_banner](https://github.com/VaNomad/VaNomad/assets/77972892/732b7138-0a9b-4183-8b56-0b8a03e610bd)
+</div>
 <div align="center">
   <h1>Connect</h1>
 </div>
