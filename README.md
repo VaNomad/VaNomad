@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <h1>Skills</h1>
-  <img src="https://skillicons.dev/icons?i=bash,git,html,css,js,figma,cra,vite,react,bootstrap,tailwind,nodejs,netlify,ps,postman,sass,supabase,vite,vscode,wordpress,xd,github/>
+  <img src="https://skillicons.dev/icons?i=bash,git,html,css,js,figma,vite,react,bootstrap,tailwind,nodejs,netlify,ps,postman,sass,supabase,vite,vscode,wordpress,xd,github/>
 </div>
 <div>
   <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light">
