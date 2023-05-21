@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="100"/>
 </div>
+<div align="center">
+  <h1>Connect</h1>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sjurhassel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <h1>Sjur's GitHub Stats</h1>
+  <h1>Stats</h1>
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
