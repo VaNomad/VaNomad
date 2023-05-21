@@ -15,7 +15,7 @@
 <div align="center">
   <h1>Stats</h1>
 </div>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
 </div>
 <div align="center">
