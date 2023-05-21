@@ -9,3 +9,4 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+[![VaNimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanomad)](https://github.com/vanomad/github-readme-stats)
