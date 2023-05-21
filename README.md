@@ -10,5 +10,5 @@
   </a>
 </div>
 <div>
-[![VaNimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanomad)](https://github.com/vanomad/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=vanomad"
 </div>
