@@ -36,6 +36,30 @@
 
 <br /><br />
 
+<!-- Skills Section ----------------------------------------------------------------------------------------- -->
+<div align="center">
+  <h1>Skills</h1>
+</div>
+<div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=6"/>
+    </a>
+  </p>
+</div>
+
+<br /><br />
+
+<!-- Stats Section ----------------------------------------------------------------------------------------- -->
+<div align="center">
+  <h1>Stats</h1>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
+</div>
+
+<br /><br />
+
 <!-- Connect Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
   <h1>Connect</h1>
@@ -56,25 +80,7 @@
 
 <br /><br />
 
-<!-- Stats Section ----------------------------------------------------------------------------------------- -->
-<div align="center">
-  <h1>Stats</h1>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
-</div>
 
-<!-- Skills Section ----------------------------------------------------------------------------------------- -->
-<div align="center">
-  <h1>Skills</h1>
-</div>
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=6"/>
-    </a>
-  </p>
-</div>
 
 <!-- Unused code, alternative skillbadges
 ### Skills  
