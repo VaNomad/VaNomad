@@ -43,7 +43,7 @@
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=bash,html,css,sass,js,bootstrap,figma,react,vite,tailwind,github,netlify,nodejs,postman,supabase,xd,ps,pr,git,github,codepen,vscode,postgres,wordpress&perline=8"/>
     </a>
   </p>
 </div>
@@ -55,9 +55,7 @@
   <h1>Stats</h1>
 </div>
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
   <div>
     <a href="https://github.com/VaNomad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaNomad&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </div>
