@@ -46,10 +46,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
   <a href="https://github.com/VaNomad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaNomad&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" /></a>
-  <a href="http://www.github.com/VaNomad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VaNomad&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
+  <a href="http://www.github.com/VaNomad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VaNomad&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true" alt="Recent activity" /></a>
 </div>
 
-<br /><br /><br /><br />
+<br /><br />
 
 <!-- Repositories Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
