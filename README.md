@@ -5,7 +5,7 @@
   <img src="https://github.com/VaNomad/VaNomad/assets/77972892/732b7138-0a9b-4183-8b56-0b8a03e610bd">
 </div>
 
-<div align="center">
+<div>
   ```js
   #function **Sjur Hassel**( ) { 
     return(
