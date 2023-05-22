@@ -5,7 +5,6 @@
   <img src="https://github.com/VaNomad/VaNomad/assets/77972892/732b7138-0a9b-4183-8b56-0b8a03e610bd">
 </div>
 
-<div>
   ```js
   #function **Sjur Hassel**( ) { 
     return(
@@ -23,7 +22,6 @@
     );
   }
   ```
-</div>
 
 <a href="https://www.github.com/VaNomad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaNomad?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
