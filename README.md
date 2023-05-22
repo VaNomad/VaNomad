@@ -6,7 +6,7 @@
 
 <!-- Code Block ----------------------------------------------------------------------------------------- -->
   ```js
-  #function Sjur_Hassel ( ) { 
+  function Sjur_Hassel ( ) { 
     return(
     <>
       <div>
