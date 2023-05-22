@@ -78,10 +78,10 @@
 <!-- Connect Badges ----------------------------------------------------------------------------------------- -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sjurhassel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Sjur-Hassel&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=Sjur-Hassel&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://m.youtube.com/watch?v=hxhfxN6yGcg&pp=ygUcc3VwYWJhc2UgaW50cm9kdWN0aW9uIHNhcm9zag%3D%3D">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=supabase-video&logoColor=white" alt="Supabase-CA Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Supabase-CA Badge"/>
   </a>
 </div>
 
