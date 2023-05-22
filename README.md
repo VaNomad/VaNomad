@@ -5,7 +5,23 @@
   <img src="https://github.com/VaNomad/VaNomad/assets/77972892/732b7138-0a9b-4183-8b56-0b8a03e610bd">
 </div>
 
-Hi 👋 My name is Sjur Hassel ============================  Junior Developer ----------------  Finishing my Front-End Development study at Noroff in October 2023. Background as Jewelry designer, photographer and  * 🌍  I'm based in Portugal * ✉️  You can contact me at [hello@sjur.io](mailto:hello@sjur.io) * 🤝  I'm open to collaborating on interesting projects * ⚡  Can only fully breathe by the ocean
+#function App( ) { 
+  return(
+   <>
+    <div>
+      <h1> Hi 👋 My name is Sjur Hassel </h1>
+      <p> Junior Developer </p>
+      <p> 🌍  I'm based in Portugal </p>
+      <p> Finishing my Front-End Development study at Noroff in October 2023 </p>
+      <p> Background as Jewelry designer + photography skills</p>
+      <p> 🤝  I'm open to collaborating on any project that doesn't harm the environment</p>
+      <p> ⚡  Can only fully breathe by the ocean </p>
+      <p> ⚡  Can get lost easily when there is a camera in my hand... </p>
+      <p> ✉️  You can contact me at [hello@sjur.io](mailto:hello@sjur.io) </p>
+    </div>
+   </>
+  );
+}
 
 <a href="https://www.github.com/VaNomad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaNomad?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
