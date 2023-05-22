@@ -6,7 +6,7 @@
 </div>
 
   ```js
-  #function `Sjur Hassel` ( ) { 
+  #function °Sjur Hassel° ( ) { 
     return(
     <>
       <div>
