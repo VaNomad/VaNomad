@@ -78,12 +78,12 @@
 <!-- Connect Badges ----------------------------------------------------------------------------------------- -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sjurhassel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=Sjur-Hassel&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://m.youtube.com/watch?v=hxhfxN6yGcg&pp=ygUcc3VwYWJhc2UgaW50cm9kdWN0aW9uIHNhcm9zag%3D%3D">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Supabase-CA Badge"/>
-  </a>
+  <a href='https://www.youtube.com/watch?v=hxhfxN6yGcg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/Case_Study-100000?style=for-the-badge&logo=youtube&logoColor=FFFEFF&labelColor=FF0304&color=FEC8FD'/></a>
 </div>
+
+
 
 <br />
 
@@ -102,6 +102,11 @@
 
 <!-- Unused code, alternative skillbadges
 ### Skills  
+
+youtube badge
+<a href="https://m.youtube.com/watch?v=hxhfxN6yGcg&pp=ygUcc3VwYWJhc2UgaW50cm9kdWN0aW9uIHNhcm9zag%3D%3D">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Supabase-CA Badge"/>
+  </a>
 
 Computer GIF 
 <div id="header" align="center">
