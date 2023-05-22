@@ -29,6 +29,8 @@
   <a href="https://www.github.com/VaNomad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaNomad?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 </div>
 
+<br /><br />
+
 <div align="center">
   <h1>Connect</h1>
 </div>
@@ -45,6 +47,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Supabase-CA Badge"/>
   </a>
 </div>
+
+<br /><br />
+
 <div align="center">
   <h1>Stats</h1>
 </div>
