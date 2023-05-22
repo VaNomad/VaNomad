@@ -52,13 +52,17 @@
 <br /><br />
 
 <!-- Repositories Section ----------------------------------------------------------------------------------------- -->
-<b align="center">Top Repositories</b>
+<div align="center">
+  <b>Top Repositories</b>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/VaNomad/react-dropdown-menu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=react-dropdown-menu&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/counter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=counter&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <div width="100%" align="center"><a href="https://github.com/VaNomad/react-dropdown-menu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=react-dropdown-menu&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/counter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=counter&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  
+  <br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/VaNomad/theDataSite--" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=theDataSite--&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/social-media-client-ca" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=social-media-client-ca&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  <div width="100%" align="center"><a href="https://github.com/VaNomad/theDataSite--" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=theDataSite--&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/social-media-client-ca" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=social-media-client-ca&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+</div>
 
 <br /><br /><br /><br /><br />
 
