@@ -46,25 +46,25 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanomad&show_icons=true&theme=merko">
   <a href="https://github.com/VaNomad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaNomad&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" /></a>
-  <a href="http://www.github.com/VaNomad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VaNomad&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/VaNomad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VaNomad&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
 </div>
 
-<br /><br />
+<br /><br /><br /><br />
 
 <!-- Repositories Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
-  <b>Top Repositories</b>
+  <h1>Top Repositories</h1>
 </div>
 
 <div align="center">
   <div width="100%" align="center"><a href="https://github.com/VaNomad/react-dropdown-menu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=react-dropdown-menu&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/counter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=counter&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
   
-  <br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
 
   <div width="100%" align="center"><a href="https://github.com/VaNomad/theDataSite--" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=theDataSite--&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/social-media-client-ca" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=social-media-client-ca&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 </div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <!-- Connect Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
