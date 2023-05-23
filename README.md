@@ -39,7 +39,7 @@
 
 <br /><br />
 
-<!-- Stats Section ----------------------------------------------------------------------------------------- 
+<!-- Stats Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
   <h1>Stats</h1>
 </div>
@@ -51,14 +51,14 @@
 
 <br /><br />
 
- Repositories Section ----------------------------------------------------------------------------------------- 
+<!-- Repositories Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
   <h1>Top Repositories</h1>
 </div>
 
 <div width="100%" align="center"><a href="https://github.com/VaNomad/react-dropdown-menu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=react-dropdown-menu&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/VaNomad/social-media-client-ca" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VaNomad&repo=social-media-client-ca&title_color=84cc16&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /> -->
+<br /><br />
 
 <!-- Connect Section ----------------------------------------------------------------------------------------- -->
 <div align="center">
