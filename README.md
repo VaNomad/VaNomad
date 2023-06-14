@@ -1,10 +1,7 @@
 
 <!-- Banner ----------------------------------------------------------------------------------------- -->
 <div align="center">
-  <img src="https://github.com/VaNomad/VaNomad/assets/77972892/85ad007e-22e6-4c9d-a544-2bb4b0f4ae36">
-</div>
-<div align="center">
-<img src="https://github.com/VaNomad/VaNomad/assets/77972892/ca92bf8a-e719-4e18-8bd3-2dea926394ec">
+  <img src="https://github.com/VaNomad/VaNomad/assets/77972892/ca92bf8a-e719-4e18-8bd3-2dea926394ec">
 </div>
 
 <!-- Code Block ----------------------------------------------------------------------------------------- -->
