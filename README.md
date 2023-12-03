@@ -6,19 +6,17 @@
 
 <!-- Code Block ----------------------------------------------------------------------------------------- -->
   ```js
-  function Sjur_Hassel ( ) { 
+  export const Sjur_Hassel = ( ) => { 
     return(
-    <>
       <div>
         <p> Junior Developer </p>
         <p> 🌍  I'm based in Portugal </p>
-        <p> 💻  Finishing my Front-End Development study at Noroff in October 2023 </p>
+        <p> 💻  Currently working on building an education platform </p>
         <p> 💍  Background as Jewelry designer + 📷 photography skills</p>
         <p> 🤝  I'm open to collaborating on any project that doesn't harm the environment</p>
         <p> 🌊  Can only fully breathe by the ocean </p>
-        <p> 📷  Can get lost easily when there is a camera in my hand... </p>
+        <p> 📷  Get lost easily with a camera in my hand... </p>
       </div>
-    </>
     );
   }
   ```
