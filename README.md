@@ -9,9 +9,9 @@
   export const Sjur_Hassel = ( ) => { 
     return(
       <div>
-        <p> Junior Developer </p>
+        <H1> Frontend Developer </H1>
         <p> 🌍  I'm based in Portugal </p>
-        <p> 💻  Currently working on building an education platform </p>
+        <p> 💻  Currently working on a React Native App for improvement developer workflow</p>
         <p> 💍  Background as Jewelry designer + 📷 photography skills</p>
         <p> 🤝  I'm open to collaborating on any project that doesn't harm the environment</p>
         <p> 🌊  Can only fully breathe by the ocean </p>
